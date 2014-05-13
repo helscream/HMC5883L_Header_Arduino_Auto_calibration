@@ -1,3 +1,9 @@
+/*	Author = helscream (Omer Ikram ul Haq) 
+	Date = 2014-05-11
+	Website: http://hobbylogs.me.pn/?p=17
+	
+*/
+
 #ifndef compass.h
   #define compass.h
   
